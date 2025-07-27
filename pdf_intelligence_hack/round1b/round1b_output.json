@@ -1,0 +1,68 @@
+{
+  "persona": "PhD researcher in comp-bio",
+  "task": "Prepare literature review on genome editing",
+  "ranked_sections": [
+    {
+      "rank": 1,
+      "score": 0.892,
+      "document": "genome_editing_review_2023.pdf",
+      "section": {
+        "level": "H2",
+        "text": "CRISPR-CAS9 MECHANISMS AND APPLICATIONS",
+        "page": 15,
+        "content": "CRISPR-Cas9 has revolutionized genome editing by providing a precise, programmable system for targeted DNA modifications. The system consists of two key components: a guide RNA (gRNA) that specifies the genomic target, and the Cas9 endonuclease that cuts the DNA..."
+      }
+    },
+    {
+      "rank": 2,
+      "score": 0.847,
+      "document": "molecular_biology_advances.pdf",
+      "section": {
+        "level": "H1",
+        "text": "RECENT ADVANCES IN GENE EDITING TECHNOLOGIES",
+        "page": 8,
+        "content": "The field of gene editing has experienced unprecedented growth in recent years, with several breakthrough technologies emerging. Base editing and prime editing represent significant advances beyond traditional CRISPR-Cas9 systems..."
+      }
+    },
+    {
+      "rank": 3,
+      "score": 0.823,
+      "document": "bioethics_genome_editing.pdf",
+      "section": {
+        "level": "H2",
+        "text": "ETHICAL CONSIDERATIONS IN GERMLINE EDITING",
+        "page": 22,
+        "content": "Germline genome editing raises profound ethical questions that the scientific community must address. Unlike somatic cell editing, germline modifications are heritable and affect future generations..."
+      }
+    },
+    {
+      "rank": 4,
+      "score": 0.789,
+      "document": "clinical_applications_review.pdf",
+      "section": {
+        "level": "H3",
+        "text": "THERAPEUTIC APPLICATIONS IN GENETIC DISORDERS",
+        "page": 45,
+        "content": "Clinical applications of genome editing show particular promise for treating monogenic disorders. Sickle cell disease and beta-thalassemia have emerged as leading targets for therapeutic genome editing..."
+      }
+    },
+    {
+      "rank": 5,
+      "score": 0.756,
+      "document": "genome_editing_review_2023.pdf",
+      "section": {
+        "level": "H2",
+        "text": "OFF-TARGET EFFECTS AND SAFETY CONSIDERATIONS",
+        "page": 28,
+        "content": "Despite the precision of modern genome editing tools, off-target effects remain a critical concern for therapeutic applications. Comprehensive assessment of unintended modifications is essential..."
+      }
+    }
+  ],
+  "metadata": {
+    "total_documents_processed": 12,
+    "total_sections_analyzed": 156,
+    "top_sections_returned": 5,
+    "processing_time_seconds": 2.34,
+    "tfidf_vocabulary_size": 8947
+  }
+}
